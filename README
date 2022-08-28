@@ -1,2 +1,4 @@
 This is a learning application intended to be run on your local machine.
 That's why requests are made to localhost.
+Documentation:
+https://jlvbcoop.com/en/microservices-event-based-architecture/
