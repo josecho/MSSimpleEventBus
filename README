@@ -1,2 +1,2 @@
-Branch: downsideone
-The downside is that for every single post we load up, we are making one request to our Comments Service to get all the comments associated with that post.
+This is a learning application intended to be run on your local machine.
+That's why requests are made to localhost.
